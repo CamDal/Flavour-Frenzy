@@ -1,1 +1,1 @@
-# Flavour-Frenzy
+Welcome to Flavour Frenzy, this is a website created for the flavour frenzy range! The Flavour Frenzy, a leading food industry brand that offers quick and easy meal solutions for busy chefs and home cooks, has approached your company to develop a website for its customers. This website was created using html in visual studio.
